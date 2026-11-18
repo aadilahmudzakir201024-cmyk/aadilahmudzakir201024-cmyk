@@ -21,11 +21,11 @@
 
 ### 📊 GitHub Stats & Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadilahmudzakir201024-cmyk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=F5F5F5" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadilahmudzakir201024-cmyk&show_icons=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilahmudzakir201024-cmyk&layout=compact&theme=tokyonight&hide_border=true&bg_color=F5F5F5" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilahmudzakir201024-cmyk&layout=compact" alt="Top Languages" />
 </p>
 
 ---
